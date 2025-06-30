@@ -1,1 +1,1 @@
-# Health-AI-Intelligent-Healthcare-Assistant-using-Ibm-Granite#hi
+# Health-AI-Intelligent-Healthcare-Assistant-using-Ibm-Granite
